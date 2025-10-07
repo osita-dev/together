@@ -11,7 +11,7 @@ const Layout = () => {
       </aside>
 
       <section className="layout__main">
-        <MainContent src="" />
+        <MainContent src="https://siitecch-learn.vercel.app/" />
       </section>
       
       <aside className="layout__chat">
